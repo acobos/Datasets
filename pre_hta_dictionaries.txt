@@ -1,0 +1,12 @@
+Race:
+1 = Caucasian
+2 = Black
+3 = Other
+
+Arm:
+1 = Left
+2 = Right
+
+Observer:
+1 = Nurse
+2 = Physician
